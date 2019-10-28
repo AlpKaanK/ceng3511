@@ -15,7 +15,7 @@ kakuro_input should be like this format
     0, 19, 8
 
 
-after success, python will create kakuro_output.txt with the ssolution of kakuro.
+After success, python will create kakuro_output.txt with the ssolution of kakuro.
 
 -------------------------------------------
 For Futoshiki
@@ -34,7 +34,7 @@ C2, C1
 D2, D1
 
 
-after success, python will create futoshiki_output.txt with the solution of futoshiki.
+After success, python will create futoshiki_output.txt with the solution of futoshiki.
 
 
 
