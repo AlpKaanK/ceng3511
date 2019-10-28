@@ -11,8 +11,8 @@ follow this order.
 
 kakuro_input should be like this format 
 
-   22, 18, 72
-    0, 19, 8
+   22, 18, 7
+   20, 19, 8
 
 
 After success, python will create kakuro_output.txt with the ssolution of kakuro.
